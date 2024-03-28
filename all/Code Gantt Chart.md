@@ -8,6 +8,6 @@ gantt
     section Another
     Task in sec      :2024-01-12  , 12d
     another task      : 24d
-    section proj
-    A task           :a1, 2024-01-01, 365d
+    section project
+    A task           :p, 2024-01-01, 365d
 ```
