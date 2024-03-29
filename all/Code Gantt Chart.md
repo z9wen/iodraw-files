@@ -3,10 +3,13 @@ gantt
     title Gantt Diagram
     dateFormat  YYYY-MM-DD
 
-    .grid .tick {
+.grid .tick {
     stroke: lightgrey;
-     opacity: 0.3;
+    opacity: 0.3;
     shape-rendering: crispEdges;
+}
+.grid path {
+    stroke-width: 0;
 }
 
     section Section
