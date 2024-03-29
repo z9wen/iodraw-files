@@ -5,7 +5,7 @@ gantt
 
     .grid .tick {
     stroke: lightgrey;
-    opacity: 0.3;
+     opacity: 0.3;
     shape-rendering: crispEdges;
 }
 
