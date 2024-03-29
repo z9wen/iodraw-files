@@ -4,9 +4,9 @@ gantt
     dateFormat  YYYY-MM-DD
 
 
-.grid path {
-    stroke-width: 0;
-}
+    .grid path {
+        stroke-width: 0;
+    }
 
     section Section
     A task           :a1, 2024-01-01, 30d
