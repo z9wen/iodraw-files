@@ -3,7 +3,7 @@ gantt
     title Gantt Diagram
     dateFormat  YYYY-MM-DD
 
-    showData
+
 
     section Section
     A task           :a1, 2024-01-01, 30d
